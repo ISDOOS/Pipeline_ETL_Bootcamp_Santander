@@ -1,8 +1,3 @@
-
-# Título do Projeto
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é:
-
 # Pipeline ETL para Relatórios de Mediação de Conflitos 🔄
 
 Este é um incrível pipeline ETL (Extração, Transformação e Carregamento) para gerar relatórios de mediação a partir de uma planilha online. ✨
